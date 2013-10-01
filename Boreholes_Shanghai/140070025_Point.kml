@@ -1,0 +1,81 @@
+<?xml version = "1.0" encoding ="UTF-8"?>
+<kml xmlns = "http://www.opengis.net/kml/2.2">
+  <Document>
+<Style id = "PlacemarkStyle">
+<IconStyle>
+  <color>ff0000ff</color>
+  <Icon>
+    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+  </Icon>
+</IconStyle>
+<BalloonStyle>
+<bgColor>ffE6D8AD</bgColor>
+<textColor>ff000000</textColor>
+<text><![CDATA[$[description]]]></text>
+</BalloonStyle>
+</Style>
+
+<Placemark>
+  <name>JSL12</name>
+    <description>
+       <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:180px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" ><strong>JSL12</strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;">
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140070025</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>JSL12</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.36219362°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>30.741022764°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.73(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>25(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>0(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+      </body>
+      </html>
+      ]]>
+    </description>
+    <styleUrl>#PlacemarkStyle</styleUrl>
+    <altitudeMode>clampToGround</altitudeMode>
+    <Point>
+      <coordinates>121.36219362,30.741022764</coordinates>
+    </Point>
+</Placemark>
+
+<NetworkLink>
+  <name>strata at JSL12</name>
+  <Region>
+    <LatLonAltBox>
+      <north>30.750022764</north>
+      <south>30.732022764</south>
+      <east>121.37119362</east>
+      <west>121.35319362</west>
+    </LatLonAltBox>
+    <Lod>
+      <minLodPixels>512</minLodPixels>
+      <maxLodPixels>-1</maxLodPixels>
+    </Lod>
+  </Region>
+  <Link>
+    <href>140070025_Cylinder.kml</href>
+    <viewRefreshMode>onRegion</viewRefreshMode>
+  </Link>
+</NetworkLink>
+  </Document>
+</kml>
