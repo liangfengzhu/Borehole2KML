@@ -1,0 +1,3536 @@
+<?xml version = "1.0" encoding ="UTF-8"?>
+<kml xmlns = "http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id ="FFC1B6FF">
+      <PolyStyle>
+        <color>FFC1B6FF</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle1">
+      <IconStyle>
+        <color>FFC1B6FF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FFC1B6FF</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>4.03m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>The top of layer 1</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#ffffff"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>1</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>①1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Filling soil</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>2.53(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>1.5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#FFB6C1"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle1</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,311.64</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-①1</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#FFB6C1";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 1</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>1</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>①1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Filling soil</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>0(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>1.5(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>2.53(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>1.5(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#FFB6C1"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FFC1B6FF</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,312.09
+                121.29822198,31.12806884,312.09
+                121.29822297,31.128067852,312.09
+                121.29822333,31.128066502,312.09
+                121.29822297,31.128065152,312.09
+                121.29822198,31.128064164,312.09
+                121.29822063,31.128063802,312.09
+                121.29821928,31.128064164,312.09
+                121.29821829,31.128065152,312.09
+                121.29821793,31.128066502,312.09
+                121.29821829,31.128067852,312.09
+                121.29821928,31.12806884,312.09
+                121.29822063,31.128069202,312.09
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,312.09
+               121.29822198,31.12806884,312.09
+               121.29822198,31.12806884,307.59
+               121.29822063,31.128069202,307.59
+               121.29822063,31.128069202,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,312.09
+               121.29822297,31.128067852,312.09
+               121.29822297,31.128067852,307.59
+               121.29822198,31.12806884,307.59
+               121.29822198,31.12806884,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,312.09
+               121.29822333,31.128066502,312.09
+               121.29822333,31.128066502,307.59
+               121.29822297,31.128067852,307.59
+               121.29822297,31.128067852,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,312.09
+               121.29822297,31.128065152,312.09
+               121.29822297,31.128065152,307.59
+               121.29822333,31.128066502,307.59
+               121.29822333,31.128066502,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,312.09
+               121.29822198,31.128064164,312.09
+               121.29822198,31.128064164,307.59
+               121.29822297,31.128065152,307.59
+               121.29822297,31.128065152,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,312.09
+               121.29822063,31.128063802,312.09
+               121.29822063,31.128063802,307.59
+               121.29822198,31.128064164,307.59
+               121.29822198,31.128064164,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,312.09
+               121.29821928,31.128064164,312.09
+               121.29821928,31.128064164,307.59
+               121.29822063,31.128063802,307.59
+               121.29822063,31.128063802,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,312.09
+               121.29821829,31.128065152,312.09
+               121.29821829,31.128065152,307.59
+               121.29821928,31.128064164,307.59
+               121.29821928,31.128064164,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,312.09
+               121.29821793,31.128066502,312.09
+               121.29821793,31.128066502,307.59
+               121.29821829,31.128065152,307.59
+               121.29821829,31.128065152,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,312.09
+               121.29821829,31.128067852,312.09
+               121.29821829,31.128067852,307.59
+               121.29821793,31.128066502,307.59
+               121.29821793,31.128066502,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,312.09
+               121.29821928,31.12806884,312.09
+               121.29821928,31.12806884,307.59
+               121.29821829,31.128067852,307.59
+               121.29821829,31.128067852,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,312.09
+               121.29822063,31.128069202,312.09
+               121.29822063,31.128069202,307.59
+               121.29821928,31.12806884,307.59
+               121.29821928,31.12806884,312.09
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,307.59
+                121.29822198,31.12806884,307.59
+                121.29822297,31.128067852,307.59
+                121.29822333,31.128066502,307.59
+                121.29822297,31.128065152,307.59
+                121.29822198,31.128064164,307.59
+                121.29822063,31.128063802,307.59
+                121.29821928,31.128064164,307.59
+                121.29821829,31.128065152,307.59
+                121.29821793,31.128066502,307.59
+                121.29821829,31.128067852,307.59
+                121.29821928,31.12806884,307.59
+                121.29822063,31.128069202,307.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id ="FF9314FF">
+      <PolyStyle>
+        <color>FF9314FF</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle2">
+      <IconStyle>
+        <color>FF9314FF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FF9314FF</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>2.53m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>Interface between layer 1 and 2</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>1</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>①1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Filling soil</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>2.53(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>1.5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#FFB6C1"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>2</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>②1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Brownish yellow or grayish yellow silty clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>2.53(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>1.53(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>1(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#FF1493"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle2</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,307.14</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-②1-2</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#FF1493";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 2</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>2</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>②1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Brownish yellow or grayish yellow silty clay</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>1.5(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>2.5(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>2.53(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>1.53(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>1(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#FF1493"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FF9314FF</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,307.59
+                121.29822198,31.12806884,307.59
+                121.29822297,31.128067852,307.59
+                121.29822333,31.128066502,307.59
+                121.29822297,31.128065152,307.59
+                121.29822198,31.128064164,307.59
+                121.29822063,31.128063802,307.59
+                121.29821928,31.128064164,307.59
+                121.29821829,31.128065152,307.59
+                121.29821793,31.128066502,307.59
+                121.29821829,31.128067852,307.59
+                121.29821928,31.12806884,307.59
+                121.29822063,31.128069202,307.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,307.59
+               121.29822198,31.12806884,307.59
+               121.29822198,31.12806884,304.59
+               121.29822063,31.128069202,304.59
+               121.29822063,31.128069202,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,307.59
+               121.29822297,31.128067852,307.59
+               121.29822297,31.128067852,304.59
+               121.29822198,31.12806884,304.59
+               121.29822198,31.12806884,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,307.59
+               121.29822333,31.128066502,307.59
+               121.29822333,31.128066502,304.59
+               121.29822297,31.128067852,304.59
+               121.29822297,31.128067852,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,307.59
+               121.29822297,31.128065152,307.59
+               121.29822297,31.128065152,304.59
+               121.29822333,31.128066502,304.59
+               121.29822333,31.128066502,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,307.59
+               121.29822198,31.128064164,307.59
+               121.29822198,31.128064164,304.59
+               121.29822297,31.128065152,304.59
+               121.29822297,31.128065152,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,307.59
+               121.29822063,31.128063802,307.59
+               121.29822063,31.128063802,304.59
+               121.29822198,31.128064164,304.59
+               121.29822198,31.128064164,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,307.59
+               121.29821928,31.128064164,307.59
+               121.29821928,31.128064164,304.59
+               121.29822063,31.128063802,304.59
+               121.29822063,31.128063802,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,307.59
+               121.29821829,31.128065152,307.59
+               121.29821829,31.128065152,304.59
+               121.29821928,31.128064164,304.59
+               121.29821928,31.128064164,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,307.59
+               121.29821793,31.128066502,307.59
+               121.29821793,31.128066502,304.59
+               121.29821829,31.128065152,304.59
+               121.29821829,31.128065152,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,307.59
+               121.29821829,31.128067852,307.59
+               121.29821829,31.128067852,304.59
+               121.29821793,31.128066502,304.59
+               121.29821793,31.128066502,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,307.59
+               121.29821928,31.12806884,307.59
+               121.29821928,31.12806884,304.59
+               121.29821829,31.128067852,304.59
+               121.29821829,31.128067852,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,307.59
+               121.29822063,31.128069202,307.59
+               121.29822063,31.128069202,304.59
+               121.29821928,31.12806884,304.59
+               121.29821928,31.12806884,307.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,304.59
+                121.29822198,31.12806884,304.59
+                121.29822297,31.128067852,304.59
+                121.29822333,31.128066502,304.59
+                121.29822297,31.128065152,304.59
+                121.29822198,31.128064164,304.59
+                121.29822063,31.128063802,304.59
+                121.29821928,31.128064164,304.59
+                121.29821829,31.128065152,304.59
+                121.29821793,31.128066502,304.59
+                121.29821829,31.128067852,304.59
+                121.29821928,31.12806884,304.59
+                121.29822063,31.128069202,304.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id ="FF8B008B">
+      <PolyStyle>
+        <color>FF8B008B</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle3">
+      <IconStyle>
+        <color>FF8B008B</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FF8B008B</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>1.53m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>Interface between layer 2 and 3</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>2</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>②1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Brownish yellow or grayish yellow silty clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>2.53(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>1.53(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>1(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#FF1493"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>3</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>②3-1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray sandy silt?</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>1.53(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-4.77(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.3(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#8B008B"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle3</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,304.14</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-②3-1</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#8B008B";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 3</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>3</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>②3-1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray sandy silt?</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>2.5(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>8.8(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>1.53(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-4.77(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.3(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#8B008B"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FF8B008B</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,304.59
+                121.29822198,31.12806884,304.59
+                121.29822297,31.128067852,304.59
+                121.29822333,31.128066502,304.59
+                121.29822297,31.128065152,304.59
+                121.29822198,31.128064164,304.59
+                121.29822063,31.128063802,304.59
+                121.29821928,31.128064164,304.59
+                121.29821829,31.128065152,304.59
+                121.29821793,31.128066502,304.59
+                121.29821829,31.128067852,304.59
+                121.29821928,31.12806884,304.59
+                121.29822063,31.128069202,304.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,304.59
+               121.29822198,31.12806884,304.59
+               121.29822198,31.12806884,285.68999943
+               121.29822063,31.128069202,285.68999943
+               121.29822063,31.128069202,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,304.59
+               121.29822297,31.128067852,304.59
+               121.29822297,31.128067852,285.68999943
+               121.29822198,31.12806884,285.68999943
+               121.29822198,31.12806884,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,304.59
+               121.29822333,31.128066502,304.59
+               121.29822333,31.128066502,285.68999943
+               121.29822297,31.128067852,285.68999943
+               121.29822297,31.128067852,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,304.59
+               121.29822297,31.128065152,304.59
+               121.29822297,31.128065152,285.68999943
+               121.29822333,31.128066502,285.68999943
+               121.29822333,31.128066502,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,304.59
+               121.29822198,31.128064164,304.59
+               121.29822198,31.128064164,285.68999943
+               121.29822297,31.128065152,285.68999943
+               121.29822297,31.128065152,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,304.59
+               121.29822063,31.128063802,304.59
+               121.29822063,31.128063802,285.68999943
+               121.29822198,31.128064164,285.68999943
+               121.29822198,31.128064164,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,304.59
+               121.29821928,31.128064164,304.59
+               121.29821928,31.128064164,285.68999943
+               121.29822063,31.128063802,285.68999943
+               121.29822063,31.128063802,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,304.59
+               121.29821829,31.128065152,304.59
+               121.29821829,31.128065152,285.68999943
+               121.29821928,31.128064164,285.68999943
+               121.29821928,31.128064164,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,304.59
+               121.29821793,31.128066502,304.59
+               121.29821793,31.128066502,285.68999943
+               121.29821829,31.128065152,285.68999943
+               121.29821829,31.128065152,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,304.59
+               121.29821829,31.128067852,304.59
+               121.29821829,31.128067852,285.68999943
+               121.29821793,31.128066502,285.68999943
+               121.29821793,31.128066502,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,304.59
+               121.29821928,31.12806884,304.59
+               121.29821928,31.12806884,285.68999943
+               121.29821829,31.128067852,285.68999943
+               121.29821829,31.128067852,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,304.59
+               121.29822063,31.128069202,304.59
+               121.29822063,31.128069202,285.68999943
+               121.29821928,31.12806884,285.68999943
+               121.29821928,31.12806884,304.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,285.68999943
+                121.29822198,31.12806884,285.68999943
+                121.29822297,31.128067852,285.68999943
+                121.29822333,31.128066502,285.68999943
+                121.29822297,31.128065152,285.68999943
+                121.29822198,31.128064164,285.68999943
+                121.29822063,31.128063802,285.68999943
+                121.29821928,31.128064164,285.68999943
+                121.29821829,31.128065152,285.68999943
+                121.29821793,31.128066502,285.68999943
+                121.29821829,31.128067852,285.68999943
+                121.29821928,31.12806884,285.68999943
+                121.29822063,31.128069202,285.68999943
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id ="FFE16941">
+      <PolyStyle>
+        <color>FFE16941</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle4">
+      <IconStyle>
+        <color>FFE16941</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FFE16941</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>-4.77m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>Interface between layer 3 and 4</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>3</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>②3-1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray sandy silt?</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>1.53(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-4.77(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.3(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#8B008B"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>4</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>④</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray muddy clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-4.77(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-11.37(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.6(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#4169E1"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle4</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,285.23999943</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-④</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#4169E1";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 4</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>4</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>④</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray muddy clay</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>8.8(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>15.4(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-4.77(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-11.37(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.6(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#4169E1"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FFE16941</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,285.68999943
+                121.29822198,31.12806884,285.68999943
+                121.29822297,31.128067852,285.68999943
+                121.29822333,31.128066502,285.68999943
+                121.29822297,31.128065152,285.68999943
+                121.29822198,31.128064164,285.68999943
+                121.29822063,31.128063802,285.68999943
+                121.29821928,31.128064164,285.68999943
+                121.29821829,31.128065152,285.68999943
+                121.29821793,31.128066502,285.68999943
+                121.29821829,31.128067852,285.68999943
+                121.29821928,31.12806884,285.68999943
+                121.29822063,31.128069202,285.68999943
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,285.68999943
+               121.29822198,31.12806884,285.68999943
+               121.29822198,31.12806884,265.89000114
+               121.29822063,31.128069202,265.89000114
+               121.29822063,31.128069202,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,285.68999943
+               121.29822297,31.128067852,285.68999943
+               121.29822297,31.128067852,265.89000114
+               121.29822198,31.12806884,265.89000114
+               121.29822198,31.12806884,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,285.68999943
+               121.29822333,31.128066502,285.68999943
+               121.29822333,31.128066502,265.89000114
+               121.29822297,31.128067852,265.89000114
+               121.29822297,31.128067852,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,285.68999943
+               121.29822297,31.128065152,285.68999943
+               121.29822297,31.128065152,265.89000114
+               121.29822333,31.128066502,265.89000114
+               121.29822333,31.128066502,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,285.68999943
+               121.29822198,31.128064164,285.68999943
+               121.29822198,31.128064164,265.89000114
+               121.29822297,31.128065152,265.89000114
+               121.29822297,31.128065152,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,285.68999943
+               121.29822063,31.128063802,285.68999943
+               121.29822063,31.128063802,265.89000114
+               121.29822198,31.128064164,265.89000114
+               121.29822198,31.128064164,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,285.68999943
+               121.29821928,31.128064164,285.68999943
+               121.29821928,31.128064164,265.89000114
+               121.29822063,31.128063802,265.89000114
+               121.29822063,31.128063802,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,285.68999943
+               121.29821829,31.128065152,285.68999943
+               121.29821829,31.128065152,265.89000114
+               121.29821928,31.128064164,265.89000114
+               121.29821928,31.128064164,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,285.68999943
+               121.29821793,31.128066502,285.68999943
+               121.29821793,31.128066502,265.89000114
+               121.29821829,31.128065152,265.89000114
+               121.29821829,31.128065152,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,285.68999943
+               121.29821829,31.128067852,285.68999943
+               121.29821829,31.128067852,265.89000114
+               121.29821793,31.128066502,265.89000114
+               121.29821793,31.128066502,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,285.68999943
+               121.29821928,31.12806884,285.68999943
+               121.29821928,31.12806884,265.89000114
+               121.29821829,31.128067852,265.89000114
+               121.29821829,31.128067852,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,285.68999943
+               121.29822063,31.128069202,285.68999943
+               121.29822063,31.128069202,265.89000114
+               121.29821928,31.12806884,265.89000114
+               121.29821928,31.12806884,285.68999943
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,265.89000114
+                121.29822198,31.12806884,265.89000114
+                121.29822297,31.128067852,265.89000114
+                121.29822333,31.128066502,265.89000114
+                121.29822297,31.128065152,265.89000114
+                121.29822198,31.128064164,265.89000114
+                121.29822063,31.128063802,265.89000114
+                121.29821928,31.128064164,265.89000114
+                121.29821829,31.128065152,265.89000114
+                121.29821793,31.128066502,265.89000114
+                121.29821829,31.128067852,265.89000114
+                121.29821928,31.12806884,265.89000114
+                121.29822063,31.128069202,265.89000114
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id ="FFB48246">
+      <PolyStyle>
+        <color>FFB48246</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle5">
+      <IconStyle>
+        <color>FFB48246</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FFB48246</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>-11.37m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>Interface between layer 4 and 5</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>4</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>④</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray muddy clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-4.77(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-11.37(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.6(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#4169E1"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>5</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑤1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray silty clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-11.37(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-20.87(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>9.5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#4682B4"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle5</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,265.44000114</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-⑤1-2</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#4682B4";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 5</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>5</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑤1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray silty clay</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>15.4(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>24.9(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-11.37(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-20.87(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>9.5(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#4682B4"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FFB48246</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,265.89000114
+                121.29822198,31.12806884,265.89000114
+                121.29822297,31.128067852,265.89000114
+                121.29822333,31.128066502,265.89000114
+                121.29822297,31.128065152,265.89000114
+                121.29822198,31.128064164,265.89000114
+                121.29822063,31.128063802,265.89000114
+                121.29821928,31.128064164,265.89000114
+                121.29821829,31.128065152,265.89000114
+                121.29821793,31.128066502,265.89000114
+                121.29821829,31.128067852,265.89000114
+                121.29821928,31.12806884,265.89000114
+                121.29822063,31.128069202,265.89000114
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,265.89000114
+               121.29822198,31.12806884,265.89000114
+               121.29822198,31.12806884,237.39000114
+               121.29822063,31.128069202,237.39000114
+               121.29822063,31.128069202,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,265.89000114
+               121.29822297,31.128067852,265.89000114
+               121.29822297,31.128067852,237.39000114
+               121.29822198,31.12806884,237.39000114
+               121.29822198,31.12806884,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,265.89000114
+               121.29822333,31.128066502,265.89000114
+               121.29822333,31.128066502,237.39000114
+               121.29822297,31.128067852,237.39000114
+               121.29822297,31.128067852,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,265.89000114
+               121.29822297,31.128065152,265.89000114
+               121.29822297,31.128065152,237.39000114
+               121.29822333,31.128066502,237.39000114
+               121.29822333,31.128066502,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,265.89000114
+               121.29822198,31.128064164,265.89000114
+               121.29822198,31.128064164,237.39000114
+               121.29822297,31.128065152,237.39000114
+               121.29822297,31.128065152,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,265.89000114
+               121.29822063,31.128063802,265.89000114
+               121.29822063,31.128063802,237.39000114
+               121.29822198,31.128064164,237.39000114
+               121.29822198,31.128064164,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,265.89000114
+               121.29821928,31.128064164,265.89000114
+               121.29821928,31.128064164,237.39000114
+               121.29822063,31.128063802,237.39000114
+               121.29822063,31.128063802,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,265.89000114
+               121.29821829,31.128065152,265.89000114
+               121.29821829,31.128065152,237.39000114
+               121.29821928,31.128064164,237.39000114
+               121.29821928,31.128064164,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,265.89000114
+               121.29821793,31.128066502,265.89000114
+               121.29821793,31.128066502,237.39000114
+               121.29821829,31.128065152,237.39000114
+               121.29821829,31.128065152,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,265.89000114
+               121.29821829,31.128067852,265.89000114
+               121.29821829,31.128067852,237.39000114
+               121.29821793,31.128066502,237.39000114
+               121.29821793,31.128066502,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,265.89000114
+               121.29821928,31.12806884,265.89000114
+               121.29821928,31.12806884,237.39000114
+               121.29821829,31.128067852,237.39000114
+               121.29821829,31.128067852,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,265.89000114
+               121.29822063,31.128069202,265.89000114
+               121.29822063,31.128069202,237.39000114
+               121.29821928,31.12806884,237.39000114
+               121.29821928,31.12806884,265.89000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,237.39000114
+                121.29822198,31.12806884,237.39000114
+                121.29822297,31.128067852,237.39000114
+                121.29822333,31.128066502,237.39000114
+                121.29822297,31.128065152,237.39000114
+                121.29822198,31.128064164,237.39000114
+                121.29822063,31.128063802,237.39000114
+                121.29821928,31.128064164,237.39000114
+                121.29821829,31.128065152,237.39000114
+                121.29821793,31.128066502,237.39000114
+                121.29821829,31.128067852,237.39000114
+                121.29821928,31.12806884,237.39000114
+                121.29822063,31.128069202,237.39000114
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id ="FFAAFF7F">
+      <PolyStyle>
+        <color>FFAAFF7F</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle6">
+      <IconStyle>
+        <color>FFAAFF7F</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FFAAFF7F</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>-20.87m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>Interface between layer 5 and 6</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>5</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑤1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray silty clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-11.37(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-20.87(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>9.5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#4682B4"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>6</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑥1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Dark green or grass yellow clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-20.87(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-24.47(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>3.6(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#7FFFAA"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle6</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,236.94000114</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-⑥1</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#7FFFAA";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 6</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>6</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑥1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Dark green or grass yellow clay</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>24.9(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>28.5(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-20.87(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-24.47(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>3.6(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#7FFFAA"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FFAAFF7F</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,237.39000114
+                121.29822198,31.12806884,237.39000114
+                121.29822297,31.128067852,237.39000114
+                121.29822333,31.128066502,237.39000114
+                121.29822297,31.128065152,237.39000114
+                121.29822198,31.128064164,237.39000114
+                121.29822063,31.128063802,237.39000114
+                121.29821928,31.128064164,237.39000114
+                121.29821829,31.128065152,237.39000114
+                121.29821793,31.128066502,237.39000114
+                121.29821829,31.128067852,237.39000114
+                121.29821928,31.12806884,237.39000114
+                121.29822063,31.128069202,237.39000114
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,237.39000114
+               121.29822198,31.12806884,237.39000114
+               121.29822198,31.12806884,226.59
+               121.29822063,31.128069202,226.59
+               121.29822063,31.128069202,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,237.39000114
+               121.29822297,31.128067852,237.39000114
+               121.29822297,31.128067852,226.59
+               121.29822198,31.12806884,226.59
+               121.29822198,31.12806884,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,237.39000114
+               121.29822333,31.128066502,237.39000114
+               121.29822333,31.128066502,226.59
+               121.29822297,31.128067852,226.59
+               121.29822297,31.128067852,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,237.39000114
+               121.29822297,31.128065152,237.39000114
+               121.29822297,31.128065152,226.59
+               121.29822333,31.128066502,226.59
+               121.29822333,31.128066502,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,237.39000114
+               121.29822198,31.128064164,237.39000114
+               121.29822198,31.128064164,226.59
+               121.29822297,31.128065152,226.59
+               121.29822297,31.128065152,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,237.39000114
+               121.29822063,31.128063802,237.39000114
+               121.29822063,31.128063802,226.59
+               121.29822198,31.128064164,226.59
+               121.29822198,31.128064164,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,237.39000114
+               121.29821928,31.128064164,237.39000114
+               121.29821928,31.128064164,226.59
+               121.29822063,31.128063802,226.59
+               121.29822063,31.128063802,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,237.39000114
+               121.29821829,31.128065152,237.39000114
+               121.29821829,31.128065152,226.59
+               121.29821928,31.128064164,226.59
+               121.29821928,31.128064164,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,237.39000114
+               121.29821793,31.128066502,237.39000114
+               121.29821793,31.128066502,226.59
+               121.29821829,31.128065152,226.59
+               121.29821829,31.128065152,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,237.39000114
+               121.29821829,31.128067852,237.39000114
+               121.29821829,31.128067852,226.59
+               121.29821793,31.128066502,226.59
+               121.29821793,31.128066502,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,237.39000114
+               121.29821928,31.12806884,237.39000114
+               121.29821928,31.12806884,226.59
+               121.29821829,31.128067852,226.59
+               121.29821829,31.128067852,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,237.39000114
+               121.29822063,31.128069202,237.39000114
+               121.29822063,31.128069202,226.59
+               121.29821928,31.12806884,226.59
+               121.29821928,31.12806884,237.39000114
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,226.59
+                121.29822198,31.12806884,226.59
+                121.29822297,31.128067852,226.59
+                121.29822333,31.128066502,226.59
+                121.29822297,31.128065152,226.59
+                121.29822198,31.128064164,226.59
+                121.29822063,31.128063802,226.59
+                121.29821928,31.128064164,226.59
+                121.29821829,31.128065152,226.59
+                121.29821793,31.128066502,226.59
+                121.29821829,31.128067852,226.59
+                121.29821928,31.12806884,226.59
+                121.29822063,31.128069202,226.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id ="FF90EE90">
+      <PolyStyle>
+        <color>FF90EE90</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle7">
+      <IconStyle>
+        <color>FF90EE90</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FF90EE90</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>-24.47m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>Interface between layer 6 and 7</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>6</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑥1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Dark green or grass yellow clay</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-20.87(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-24.47(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>3.6(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#7FFFAA"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>7</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑦1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Grass yellow sandy silt</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-24.47(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-29.47(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#90EE90"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle7</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,226.14</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-⑦1-2</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#90EE90";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 7</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>7</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑦1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Grass yellow sandy silt</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>28.5(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>33.5(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-24.47(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-29.47(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>5(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#90EE90"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FF90EE90</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,226.59
+                121.29822198,31.12806884,226.59
+                121.29822297,31.128067852,226.59
+                121.29822333,31.128066502,226.59
+                121.29822297,31.128065152,226.59
+                121.29822198,31.128064164,226.59
+                121.29822063,31.128063802,226.59
+                121.29821928,31.128064164,226.59
+                121.29821829,31.128065152,226.59
+                121.29821793,31.128066502,226.59
+                121.29821829,31.128067852,226.59
+                121.29821928,31.12806884,226.59
+                121.29822063,31.128069202,226.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,226.59
+               121.29822198,31.12806884,226.59
+               121.29822198,31.12806884,211.59
+               121.29822063,31.128069202,211.59
+               121.29822063,31.128069202,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,226.59
+               121.29822297,31.128067852,226.59
+               121.29822297,31.128067852,211.59
+               121.29822198,31.12806884,211.59
+               121.29822198,31.12806884,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,226.59
+               121.29822333,31.128066502,226.59
+               121.29822333,31.128066502,211.59
+               121.29822297,31.128067852,211.59
+               121.29822297,31.128067852,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,226.59
+               121.29822297,31.128065152,226.59
+               121.29822297,31.128065152,211.59
+               121.29822333,31.128066502,211.59
+               121.29822333,31.128066502,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,226.59
+               121.29822198,31.128064164,226.59
+               121.29822198,31.128064164,211.59
+               121.29822297,31.128065152,211.59
+               121.29822297,31.128065152,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,226.59
+               121.29822063,31.128063802,226.59
+               121.29822063,31.128063802,211.59
+               121.29822198,31.128064164,211.59
+               121.29822198,31.128064164,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,226.59
+               121.29821928,31.128064164,226.59
+               121.29821928,31.128064164,211.59
+               121.29822063,31.128063802,211.59
+               121.29822063,31.128063802,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,226.59
+               121.29821829,31.128065152,226.59
+               121.29821829,31.128065152,211.59
+               121.29821928,31.128064164,211.59
+               121.29821928,31.128064164,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,226.59
+               121.29821793,31.128066502,226.59
+               121.29821793,31.128066502,211.59
+               121.29821829,31.128065152,211.59
+               121.29821829,31.128065152,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,226.59
+               121.29821829,31.128067852,226.59
+               121.29821829,31.128067852,211.59
+               121.29821793,31.128066502,211.59
+               121.29821793,31.128066502,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,226.59
+               121.29821928,31.12806884,226.59
+               121.29821928,31.12806884,211.59
+               121.29821829,31.128067852,211.59
+               121.29821829,31.128067852,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,226.59
+               121.29822063,31.128069202,226.59
+               121.29822063,31.128069202,211.59
+               121.29821928,31.12806884,211.59
+               121.29821928,31.12806884,226.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,211.59
+                121.29822198,31.12806884,211.59
+                121.29822297,31.128067852,211.59
+                121.29822333,31.128066502,211.59
+                121.29822297,31.128065152,211.59
+                121.29822198,31.128064164,211.59
+                121.29822063,31.128063802,211.59
+                121.29821928,31.128064164,211.59
+                121.29821829,31.128065152,211.59
+                121.29821793,31.128066502,211.59
+                121.29821829,31.128067852,211.59
+                121.29821928,31.12806884,211.59
+                121.29822063,31.128069202,211.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id ="FF32CD32">
+      <PolyStyle>
+        <color>FF32CD32</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+     <bgColor>ffE6D8AD</bgColor>
+     <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id = "PlacemarkStyle8">
+      <IconStyle>
+        <color>FF32CD32</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FF32CD32</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>-29.47m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>Interface between layer 7 and 8</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>7</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑦1-2</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Grass yellow sandy silt</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-24.47(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-29.47(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#90EE90"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>8</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑦2-1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray yellow or gray silty sand</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-29.47(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-35.97(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#32CD32"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle8</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,211.14</coordinates>
+        </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>SJ7-⑦2-1</name>
+      <description>
+<![CDATA[<!DOCTYPE HTML>
+       <html>
+    <meta charset="utf-8">
+       <script>
+         function draw(id) 
+         {
+            var canvas = document.getElementById(id);
+            if (canvas == null) return false;
+            var context = canvas.getContext('2d');
+            context.fillStyle = "#32CD32";
+            context.fillRect(0, 5,40, 20);
+          }
+       </script> 
+       <body>
+       <title></title>
+       <style type="text/css">
+       fieldset{ width:200px; }
+      s1 {font-size: 12px; letter-spacing: -1px}
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000"><strong>Borehole name: SJ7<br/> Layer No: 8</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+     <legend><h3><img src="http://202.127.1.14/myweb/picture/strata.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Current stratum</h3></legend>
+     <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>8</i></font><br/>
+     <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑦2-1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray yellow or gray silty sand</i></font><br/>
+      <font color="#000000"><b>Description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Depth to the top: </b></font><font color="#ff0000"><i>33.5(m)</i></font><br/>
+      <font color="#000000"><b>Depth to the bottom: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-29.47(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-35.97(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.5(m)</i></font><br/>
+      <font color="#000000"><b>Formation age: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Genesis: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Overall description: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#32CD32"><s1>██████</s1></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" width = "12" height = "25" valign = "middle">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+  ]]>
+      </description>
+      <styleUrl>#FF32CD32</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,211.59
+                121.29822198,31.12806884,211.59
+                121.29822297,31.128067852,211.59
+                121.29822333,31.128066502,211.59
+                121.29822297,31.128065152,211.59
+                121.29822198,31.128064164,211.59
+                121.29822063,31.128063802,211.59
+                121.29821928,31.128064164,211.59
+                121.29821829,31.128065152,211.59
+                121.29821793,31.128066502,211.59
+                121.29821829,31.128067852,211.59
+                121.29821928,31.12806884,211.59
+                121.29822063,31.128069202,211.59
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128069202,211.59
+               121.29822198,31.12806884,211.59
+               121.29822198,31.12806884,192.09
+               121.29822063,31.128069202,192.09
+               121.29822063,31.128069202,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.12806884,211.59
+               121.29822297,31.128067852,211.59
+               121.29822297,31.128067852,192.09
+               121.29822198,31.12806884,192.09
+               121.29822198,31.12806884,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128067852,211.59
+               121.29822333,31.128066502,211.59
+               121.29822333,31.128066502,192.09
+               121.29822297,31.128067852,192.09
+               121.29822297,31.128067852,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822333,31.128066502,211.59
+               121.29822297,31.128065152,211.59
+               121.29822297,31.128065152,192.09
+               121.29822333,31.128066502,192.09
+               121.29822333,31.128066502,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822297,31.128065152,211.59
+               121.29822198,31.128064164,211.59
+               121.29822198,31.128064164,192.09
+               121.29822297,31.128065152,192.09
+               121.29822297,31.128065152,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822198,31.128064164,211.59
+               121.29822063,31.128063802,211.59
+               121.29822063,31.128063802,192.09
+               121.29822198,31.128064164,192.09
+               121.29822198,31.128064164,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29822063,31.128063802,211.59
+               121.29821928,31.128064164,211.59
+               121.29821928,31.128064164,192.09
+               121.29822063,31.128063802,192.09
+               121.29822063,31.128063802,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.128064164,211.59
+               121.29821829,31.128065152,211.59
+               121.29821829,31.128065152,192.09
+               121.29821928,31.128064164,192.09
+               121.29821928,31.128064164,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128065152,211.59
+               121.29821793,31.128066502,211.59
+               121.29821793,31.128066502,192.09
+               121.29821829,31.128065152,192.09
+               121.29821829,31.128065152,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821793,31.128066502,211.59
+               121.29821829,31.128067852,211.59
+               121.29821829,31.128067852,192.09
+               121.29821793,31.128066502,192.09
+               121.29821793,31.128066502,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821829,31.128067852,211.59
+               121.29821928,31.12806884,211.59
+               121.29821928,31.12806884,192.09
+               121.29821829,31.128067852,192.09
+               121.29821829,31.128067852,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+               121.29821928,31.12806884,211.59
+               121.29822063,31.128069202,211.59
+               121.29822063,31.128069202,192.09
+               121.29821928,31.12806884,192.09
+               121.29821928,31.12806884,211.59
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+        <Polygon>
+          <extrude>0</extrude>
+          <tessellate>1</tessellate>
+          <altitudeMode>absolute</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                121.29822063,31.128069202,192.09
+                121.29822198,31.12806884,192.09
+                121.29822297,31.128067852,192.09
+                121.29822333,31.128066502,192.09
+                121.29822297,31.128065152,192.09
+                121.29822198,31.128064164,192.09
+                121.29822063,31.128063802,192.09
+                121.29821928,31.128064164,192.09
+                121.29821829,31.128065152,192.09
+                121.29821793,31.128066502,192.09
+                121.29821829,31.128067852,192.09
+                121.29821928,31.12806884,192.09
+                121.29822063,31.128069202,192.09
+             </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+    </Placemark>
+
+    <Style id = "PlacemarkStyle0">
+      <IconStyle>
+        <color>FF32CD32</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+        <scale>0.5</scale>
+      </IconStyle>
+      <BalloonStyle>
+       <bgColor>ffE6D8AD</bgColor>
+       <textColor>ff000000</textColor>
+      <text><![CDATA[$[description]]]></text>
+      </BalloonStyle>
+      <LabelStyle>
+      <color>FF32CD32</color>
+      <colorMode>normal</colorMode>
+      <scale>0.6</scale> 
+      </LabelStyle>
+    </Style>
+
+    <Placemark>
+      <name>-35.97m</name>
+        <description>
+        <![CDATA[<!DOCTYPE HTML>
+       <html>
+       <meta charset="utf-8">
+       <body>
+       <title></title>
+       <style type="text/css">
+      s2 {font-size: 12px; letter-spacing: -1px}
+       fieldset{ width:200px; }
+       p{ font-size:12px; font-weight:bold;}
+      </style>
+      <table width="200" cellspacing="0" cellpadding="0" border="0"><tr><td bgcolor="#DCDCDC" valign = "middle" align="left"><br/>
+      <font face="Arial" style="font-size: 11pt" color="#000000" align = "center"><strong>Borehole name: SJ7<br/>The bottom of layer 8</h3></strong></font><br/><br/></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/up.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Overlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>8</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>⑦2-1</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>Gray yellow or gray silty sand</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>-29.47(m)</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>-35.97(m)</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>6.5(m)</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#32CD32"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td>
+      <hr width = 216px style="border:1px dashed #3CB371"></hr>
+      </td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/down.png" valign = "middle" align="left" width = "20" height = "20">&nbsp;&nbsp;Underlying stratum</h3></legend>
+      <p><font color="#000000"><b>Layer No: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Stratum code: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Stratum name: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Elevation to the top: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Elevation to the bottom: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Thickness: </b></font><font color="#ff0000"><i>NULL</i></font><br/>
+      <font color="#000000"><b>Color: </b></font><font color="#000000"><s2>██████</s2></font><br/></p>
+      </fieldset>
+      </td></tr><tr><td><hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr>
+      <hr width = 216px align = "middle" size = 2 color = "#3CB371"></hr></td></tr>
+      <tr><td bgcolor="#F5F5F5" valign = "bottom" align="left">
+      <fieldset align="left" style=" border:2px solid #3D3D3D;" >
+      <legend><h3><img src="http://202.127.1.14/myweb/picture/borehole.png" valign = "middle" align="left" width = "12" height = "25">&nbsp;&nbsp;Current borehole</h3></legend>
+      <p><font color="#000000"><b>Borehole code: </b></font><font color="#ff0000"><i>140011391</i></font><br/>
+      <font color="#000000"><b>Borehole name: </b></font><font color="#ff0000"><i>SJ7</i></font><br/>
+      <font color="#000000"><b>Borehole type: </b></font><font color="#ff0000"><i>Engineering geological sampling hole </i></font><br/>
+      <font color="#000000"><b>Longitude: </b></font><font color="#ff0000"><i>121.29822063°</i></font><br/>
+      <font color="#000000"><b>Latitude: </b></font><font color="#ff0000"><i>31.128066502°</i></font><br/>
+      <font color="#000000"><b>Hole diameter: </b></font><font color="#ff0000"><i>120(mm)</i></font><br/>
+      <font color="#000000"><b>Elevation: </b></font><font color="#ff0000"><i>4.03(m)</i></font><br/>
+      <font color="#000000"><b>Drilling depth: </b></font><font color="#ff0000"><i>40(m)</i></font><br/>
+      <font color="#000000"><b>Ground water level: </b></font><font color="#ff0000"><i>1.3(m)</i></font><br/>
+      <font color="#000000"><b>Drilling start date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Drilling end date: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Driller: </b></font><font color="#ff0000"><i></i></font><br/>
+      <font color="#000000"><b>Remarks: </b></font><font color="#ff0000"><i></font><br/></p>
+      </fieldset>
+      </td></tr></table>
+  </body>
+  </html>
+     ]]>
+        </description>
+        <styleUrl>#PlacemarkStyle0</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>121.29822063,31.128066502,191.64</coordinates>
+        </Point>
+    </Placemark>
+
+  </Document>
+</kml>
